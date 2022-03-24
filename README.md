@@ -10,4 +10,4 @@ If you like my work, consider [supporting me](https://buymeacoffee.com/famiuhaqu
 
 - E-mail: famiuhaque@pm.me
 - Element/Matrix: @moonglade:matrix.org
-- Reddit: https://reddit.com/_Famiu_
+- Reddit: [https://reddit.com/\_Famiu\_](https://reddit.com/_Famiu_)
