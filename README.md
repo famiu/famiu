@@ -1,16 +1,13 @@
-### Hi there 👋
+### About Me
 
-<!--
-**famiu/famiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Famiu (IPA pronunciation: fɑmiu), currently a student that likes to contribute to Open Source projects in my free time.
 
-Here are some ideas to get you started:
+### Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you like my work, consider [supporting me](https://buymeacoffee.com/famiuhaque)
+
+### Contact Information
+
+- E-mail: famiuhaque@pm.me
+- Element/Matrix: @moonglade:matrix.org
+- Reddit: https://reddit.com/_Famiu_
