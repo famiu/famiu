@@ -1,6 +1,6 @@
 ### About Me
 
-I'm Famiu (IPA pronunciation: fɑmiu), currently a student that likes to contribute to Open Source projects in my free time.
+I'm Famiu (IPA pronunciation: fɑmju), currently a student that likes to contribute to Open Source projects in my free time.
 
 ### Activity
 
