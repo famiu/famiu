@@ -9,5 +9,6 @@ I'm Famiu (IPA pronunciation: fαmjʊ), currently a student who likes to contrib
 
 ### Contact Information
 
-- E-mail: famiuhaque@pm.me
-- Element/Matrix: @moonglade:matrix.or
+- E-mail: famiuhaque@proton.me
+- Twitter: https://twitter.com/famiuhaque
+- Element/Matrix: @moonglade:matrix.org
