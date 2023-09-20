@@ -1,6 +1,6 @@
 ### About Me
 
-I'm Famiu (IPA pronunciation: fαmjʊ), currently a student that likes to contribute to Open Source projects in my free time.
+I'm Famiu (IPA pronunciation: fαmjʊ), currently a student who likes to contribute to Open Source projects in my free time.
 
 ### Activity
 
@@ -10,5 +10,4 @@ I'm Famiu (IPA pronunciation: fαmjʊ), currently a student that likes to contri
 ### Contact Information
 
 - E-mail: famiuhaque@pm.me
-- Element/Matrix: @moonglade:matrix.org
-- Reddit: [https://reddit.com/u/\_Famiu\_](https://reddit.com/u/_Famiu_)
+- Element/Matrix: @moonglade:matrix.or
